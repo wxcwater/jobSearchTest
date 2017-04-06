@@ -14,5 +14,10 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+##unit test basic on karma,to run test case
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# at project path 
+karma start
+
+# open an new shell and to the porject 
+karma run
