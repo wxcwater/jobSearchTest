@@ -15,9 +15,10 @@ npm run dev
 npm run build
 ```
 # unit test basic on karma,to run test case
-
+``` bash
 ## at project path 
 karma start
 
 ## open an new shell and to the porject 
 karma run
+```
