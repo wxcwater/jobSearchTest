@@ -14,10 +14,10 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-##unit test basic on karma,to run test case
+# unit test basic on karma,to run test case
 
-# at project path 
+## at project path 
 karma start
 
-# open an new shell and to the porject 
+## open an new shell and to the porject 
 karma run
